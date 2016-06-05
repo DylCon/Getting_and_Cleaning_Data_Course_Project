@@ -25,3 +25,5 @@ The script performs the following tasks:
 6) Write text file with tidy data sets:
 * 1) The set with activities merged in, test and training data merged, altered feature names and only mean and SD data
 * 2) The set that pivots set 1 on Activity_Name and Feature_Name
+
+*See the Readme file from the source data in the indicated zip file for more details on the source of the data*
